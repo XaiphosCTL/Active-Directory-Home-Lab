@@ -15,6 +15,7 @@ Project consists of creating an Active Directory home lab environment using Orac
 
 - <b>PowerShell</b> 
 - <b>Oracle Virtual Box</b>
+- <b>Command Line</b>
 
 <h2>Environments Used </h2>
 
@@ -24,8 +25,8 @@ Project consists of creating an Active Directory home lab environment using Orac
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Topology Overview: <br/>
+<img src="https://imgur.com/a/Mi6mFxR" height="80%" width="80%" alt="Topology Overview"/>
 <br />
 <br />
 Select the disk:  <br/>
