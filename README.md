@@ -3,9 +3,13 @@
 
 
 <h2>Description</h2>
-Project consists of how to create an Active Directory home lab environment using Oracle Virtual Box.
+Project consists of creating an Active Directory home lab environment using Oracle Virtual Box. The Home Lab environment will consist of 2 VM's, a Domain Controller which will be running Windows Server 2019, and an endpoint that will be running Windows 10 Pro.
 
+<h2>Project Goals</h2>
 
+- Familiarization with Windows Server setup and configurations for Active Directory.
+- Creating users utilizing Powershell
+- Client Device setup to include verifying internet and intranet access/configuration.
 
 <h2>Languages and Utilities Used</h2>
 
@@ -14,7 +18,8 @@ Project consists of how to create an Active Directory home lab environment using
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
+- <b>Windows Server 2019 </b>
 
 <h2>Program walk-through:</h2>
 
