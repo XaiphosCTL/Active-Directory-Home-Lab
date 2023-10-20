@@ -26,7 +26,7 @@ Project consists of creating an Active Directory home lab environment using Orac
 
 <p align="center">
 Topology Overview: <br/>
-<img src="https://imgur.com/a/Mi6mFxR" height="80%" width="80%" alt="Topology Overview"/>
+<img src="https://i.imgur.com/Zo9JUqT.png" height="80%" width="80%" alt="Topology Overview"/>
 <br />
 <br />
 Select the disk:  <br/>
