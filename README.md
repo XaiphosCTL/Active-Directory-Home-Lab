@@ -23,12 +23,15 @@ Project consists of creating an Active Directory home lab environment using Orac
 - <b>Windows Server 2019 </b>
 
 <h2>Program walk-through:</h2>
-
+As noted in the description, I set up 2 VM's. One running Widows Server 2019 as the Domain Controller and the other running Windows 10 Pro to serve as the endpoint. Listed below is the topology overview and network configurations for the virtual network.
 <p align="center">
 Topology Overview: <br/>
 <img src="https://i.imgur.com/Zo9JUqT.png" height="80%" width="80%" alt="Topology Overview"/>
 <br />
 <br />
+
+
+
 
 
 <!--
